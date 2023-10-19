@@ -1,3 +1,3 @@
-npx tsc
+## npx tsc
 
-node dist/index.js
+## node dist/index.js
